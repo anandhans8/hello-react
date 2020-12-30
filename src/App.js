@@ -1,8 +1,9 @@
 import Sample from './sample';
+import BootstrapSample from './bootstrap-sample';
 
 function App() {
   return (
-    <Sample />
+    <BootstrapSample />
   );
 }
 
